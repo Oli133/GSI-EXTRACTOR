@@ -1,0 +1,6 @@
+{
+  "name": "GSI Extractor",
+  "description": "Inspect, browse, and extract files from ZIP archives and Android GSI system images with AI-powered system inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

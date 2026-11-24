@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GSI Extractor</string>
+    <string name="hero_title">Inspect &amp; Extract Android GSIs &amp; Archives</string>
+    <string name="hero_subtitle">Browse ZIPs, raw or sparse system.img, dynamic super.img, EXT4 &amp; EROFS filesystems, and .img.xz images directly on-device.</string>
+    <string name="open_file_cta">Open ZIP or GSI Image</string>
+    <string name="recent_archives_title">Recent Archives &amp; Images</string>
+    <string name="recent_empty_title">No archives opened yet</string>
+    <string name="recent_empty_subtitle">Tap "Open ZIP or GSI Image" to load a .zip, .img, .img.xz, .img.gz, or .apk file from device storage.</string>
+    <string name="cd_hero_banner">Layered Android system partitions and archive strata illustration</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_open_file">Open archive or image</string>
+    <string name="cd_extract_selected">Extract selected items</string>
+    <string name="cd_ai_inspector">Open AI Inspector</string>
+    <string name="cd_search">Search files</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_share">Share file</string>
+    <string name="cd_save_as">Save file</string>
+    <string name="cd_mount_image">Mount nested image</string>
+</resources>
